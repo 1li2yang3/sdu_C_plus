@@ -1,0 +1,3 @@
+C:/Users/32379/Desktop/game_demo3/game_demo3/cmake-build-debug/CMakeFiles/game_demo.dir
+C:/Users/32379/Desktop/game_demo3/game_demo3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/32379/Desktop/game_demo3/game_demo3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
